@@ -1,7 +1,7 @@
-#Basics
+# Basics
 I slacked my ass off for a few years and this repository represents my attempt in refreshing the basics.
 
-##Python
+## Python
 This is where I relearnt dealing with the python basics which I never really spent time on
 
 ## Projects
